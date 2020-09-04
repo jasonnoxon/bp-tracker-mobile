@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "airtable": "^0.7.1",
+    "airtable": "^0.7.2",
     "expo": "^34.0.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
